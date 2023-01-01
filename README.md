@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @lionstrings
-- 👀 Always looking for cookies (to eat you dumbass)
+- 👀 Always looking for Cookies (to eat you dumbass)
