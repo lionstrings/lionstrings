@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ly3tQYHmXMsCI/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/ly3tQYHmXMsCI/giphy.gif" width="100"
+(https://github.com/lionstrings)/>
 </div>
 <p>
   
