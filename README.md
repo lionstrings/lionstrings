@@ -15,12 +15,12 @@
       </a>
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/ly3tQYHmXMsCI/giphy.gif" alt="Projekt-Banner" width="300">
-    </td>
-    <td align="center">
       <a href="#">
         <img src="https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B" alt="Krita">
       </a>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/ly3tQYHmXMsCI/giphy.gif" alt="Projekt-Banner" width="300">
     </td>
     <td align="center">
       <a href="#">
