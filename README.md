@@ -6,9 +6,26 @@
   <a href="https://leon-dev.itch.io/">
     <img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white" alt="Itch.io">
   </a>
-  <span style="color:transparent">-----</span>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ly3tQYHmXMsCI/giphy.gif" alt="Projekt-Banner" width="80%">
+</p>
+
+---
+
+<p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine" alt="Godot Engine">
   </a>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B" alt="Krita">
+  </a>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <a href="#">
+    <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white" alt="WordPress">
+  </a>
 </p>
-
