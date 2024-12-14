@@ -1,34 +1,8 @@
-# 🌟 Leon Dev - Kreativität trifft Technologie 🌟
+# 🌟 Leon Dev 🌟
 
 ![Projekt-Banner](https://media.giphy.com/media/ly3tQYHmXMsCI/giphy.gif)
 
-<p align="center">
-  Willkommen auf meinem Profil! Hier findest du alles rund um meine kreativen und technischen Projekte.
-</p>
-
 ---
-
-## 🖌️ Über mich
-
-🎮 **Indie Game Developer** – Leidenschaft für Spiele, die fesseln und begeistern.  
-🎨 **Digital Artist** – Kunst, die Emotionen einfängt.  
-🌐 **Web Designer** – Schlichte, effektive und inspirierende Designs.  
-📚 **Content Creator** – Erzählen von Geschichten und Ideen.  
-
----
-
-## 📈 Projekte und Arbeiten
-
-| Projekt | Beschreibung | Technologie |
-|---------|--------------|-------------|
-| **Spielentwicklung** | Entwicklung immersiver Spiele mit einer starken Vision. | Godot |
-| **Digitale Kunst** | Erstellung von Illustrationen und Konzeptgrafiken. | Krita |
-| **Webprojekte** | Gestaltung kreativer Webseiten und Plattformen. | WordPress |
-| **Veröffentlichungen** | Kreative Inhalte auf einer Indie-Plattform. | Itch.io |
-
----
-
-## 🛠️ Tools und Plattformen
 
 <p align="center">
   <a href="https://leon-dev.itch.io/">
