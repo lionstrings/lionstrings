@@ -8,7 +8,6 @@
   </a>
 </p>
 
-
 <table align="center">
   <tr>
     <td align="center">
@@ -26,8 +25,6 @@
     </td>
   </tr>
 </table>
-
----
 
 <p align="center">
   <a href="#">
