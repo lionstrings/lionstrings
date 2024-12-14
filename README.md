@@ -11,6 +11,10 @@
   <a href="https://inkscape.org/">
   <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" alt="Inkscape">
 </a>
+  </a>  
+  <a href="https://krita.org/">
+  <img src="https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B" alt="Krita">
+</a>
 <a href="https://aseprite.org/">
   <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E" alt="Aseprite">
 </a>
