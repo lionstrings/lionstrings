@@ -11,20 +11,20 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ly3tQYHmXMsCI/giphy.gif" alt="Projekt-Banner" width="80%">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine" alt="Godot Engine">
+  </a>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <img src="https://media.giphy.com/media/ly3tQYHmXMsCI/giphy.gif" alt="Projekt-Banner" width="300">
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B" alt="Krita">
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine" alt="Godot Engine">
-  </a>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B" alt="Krita">
-  </a>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <a href="#">
     <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white" alt="WordPress">
   </a>
