@@ -1,6 +1,34 @@
-# 🌟 Kreative Projekte und Lösungen 🌟
+# 🌟 Leon Dev - Kreativität trifft Technologie 🌟
 
 ![Projekt-Banner](https://media.giphy.com/media/ly3tQYHmXMsCI/giphy.gif)
+
+<p align="center">
+  Willkommen auf meinem Profil! Hier findest du alles rund um meine kreativen und technischen Projekte.
+</p>
+
+---
+
+## 🖌️ Über mich
+
+🎮 **Indie Game Developer** – Leidenschaft für Spiele, die fesseln und begeistern.  
+🎨 **Digital Artist** – Kunst, die Emotionen einfängt.  
+🌐 **Web Designer** – Schlichte, effektive und inspirierende Designs.  
+📚 **Content Creator** – Erzählen von Geschichten und Ideen.  
+
+---
+
+## 📈 Projekte und Arbeiten
+
+| Projekt | Beschreibung | Technologie |
+|---------|--------------|-------------|
+| **Spielentwicklung** | Entwicklung immersiver Spiele mit einer starken Vision. | Godot |
+| **Digitale Kunst** | Erstellung von Illustrationen und Konzeptgrafiken. | Krita |
+| **Webprojekte** | Gestaltung kreativer Webseiten und Plattformen. | WordPress |
+| **Veröffentlichungen** | Kreative Inhalte auf einer Indie-Plattform. | Itch.io |
+
+---
+
+## 🛠️ Tools und Plattformen
 
 <p align="center">
   <a href="https://leon-dev.itch.io/">
@@ -16,31 +44,3 @@
     <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white" alt="WordPress">
   </a>
 </p>
-
----
-
-## 🖋️ Über das Projekt
-
-> **Kreativität trifft auf Technologie** – Dieses Repository enthält eine Sammlung meiner kreativen und technologischen Projekte. Ob Spieleentwicklung, digitale Kunst oder Webdesign, hier fließen Leidenschaft und Innovation zusammen.
-
----
-
-## 🚀 Tools & Technologien
-
-| Tool / Plattform | Beschreibung |
-|-------------------|--------------|
-| **[Itch.io](https://leon-dev.itch.io/)** | Spiele und kreative Projekte, die ich veröffentlicht habe. |
-| **Godot Engine** | Leistungsstarke Game Engine für immersive Spiele. |
-| **Krita** | Professionelle Software für digitale Illustrationen und Kunst. |
-| **WordPress** | Flexible Plattform für Webseiten und Blogs. |
-
----
-
-## 📂 Struktur
-
-```plaintext
-📁 Projektname
-├── 🎨 Assets/Illustrationen
-├── 🎮 Spieleentwicklung
-├── 🌐 Webprojekte
-└── 📖 Dokumentation
