@@ -1,4 +1,4 @@
-# 🌟 Leon Dev 🌟
+# Leon Dev
 
 ---
 
