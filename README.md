@@ -13,7 +13,7 @@
 </a>
   </a>  
   <a href="https://krita.org/">
-  <img src="https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B" alt="Krita">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/120px-Calligrakrita-base.svg.png" alt="Krita">
 </a>
 <a href="https://aseprite.org/">
   <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E" alt="Aseprite">
