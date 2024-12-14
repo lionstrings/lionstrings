@@ -1,7 +1,5 @@
 # Leon Dev
 
----
-
 <p align="center">
   <a href="https://leon-dev.itch.io/">
     <img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white" alt="Itch.io">
