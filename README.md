@@ -8,9 +8,27 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ly3tQYHmXMsCI/giphy.gif" alt="Projekt-Banner" width="300">
-</p>
+---
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white" alt="WordPress">
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/ly3tQYHmXMsCI/giphy.gif" alt="Projekt-Banner" width="300">
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine" alt="Godot Engine">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
 
 <p align="center">
   <a href="#">
