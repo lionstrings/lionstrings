@@ -8,7 +8,6 @@
   </a>
 </p>
 
----
 
 <table align="center">
   <tr>
