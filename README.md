@@ -10,7 +10,7 @@
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white" alt="WordPress">
+        <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine" alt="Godot Engine">
       </a>
     </td>
     <td align="center">
@@ -18,7 +18,7 @@
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine" alt="Godot Engine">
+        <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white" alt="WordPress">
       </a>
     </td>
   </tr>
@@ -29,5 +29,3 @@
     <img src="https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B" alt="Krita">
   </a>
 </p>
-
----
